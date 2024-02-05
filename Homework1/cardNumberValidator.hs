@@ -1,5 +1,7 @@
 {-# OPTIONS_GHC -Wall #-}
 
+module CreditCard where
+
 import Data.Char (ord)
 
 {- This exercise consists of implementing a validator for Credit Card Number
