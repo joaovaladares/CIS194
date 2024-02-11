@@ -8,12 +8,12 @@ Also feel free to reach out, I'm always open to talk and learn more!
 I'll keep updating this README as soon as I do the assignments.
 
 ## [Week 1 - Introduction to Haskell](https://www.cis.upenn.edu/~cis1940/spring13/lectures/01-intro.html)
-Solutions and assignment (here)[https://github.com/joaovaladares/CIS194/tree/main/Homework1] 
+Solutions and assignment [here](https://github.com/joaovaladares/CIS194/tree/main/Homework1)
 
 
 ## [Week 2 - Algebraic Data Types](https://www.cis.upenn.edu/~cis1940/spring13/lectures/02-ADTs.html)
-Solutions and assignment (here)[https://github.com/joaovaladares/CIS194/tree/main/Homework2] 
+Solutions and assignment [here](https://github.com/joaovaladares/CIS194/tree/main/Homework2)
 
 
 ## [Week 3 - Recursion patterns, polymorphism, and the Prelude](https://www.cis.upenn.edu/~cis1940/spring13/lectures/03-rec-poly.html)
-Solutions and assignment (here)[https://github.com/joaovaladares/CIS194/tree/main/Homework3] 
+Solutions and assignment [here](https://github.com/joaovaladares/CIS194/tree/main/Homework3)
